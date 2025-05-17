@@ -123,18 +123,7 @@ Last Release - v1.2 (12-Feb-2024)\
 
 ## Screenshots
 
-![](https://massgrave.dev/images/IAS.png?raw=true)
-
-![](https://massgrave.dev/images/IAS_Freeze_Trial.png?raw=true)
-
-## Credits
-
-|                                             |                                                                                                                                                                                                                                        |
-|----------------------|--------------------------------------------------|
-| Dukun Cabul                                 | Original researcher of this IDM trial reset and activation logic, made an Autoit tool for these methods, [IDM-AIO_2020_Final](https://nsaneforums.com/topic/371047-discussion-internet-download-manager-fixes/page/8/#comment-1632062) |
-| AveYo aka BAU                               | [reg_own lean and mean snippet](https://pastebin.com/XTPt0JSC)                                                                                                                                                                         |
-| [abbodi1406](https://github.com/abbodi1406) | Help in coding                                                                                                                                                                                                                         |
-| WindowsAddict                               | IAS Author                                                                                                                                                                                                                             |
+![](https://massgrave.dev/images/IAS.png?                                                                                                                                                                                    |
 
 And thanks to the IAS users for their interest, feedback, and assistance.
 
